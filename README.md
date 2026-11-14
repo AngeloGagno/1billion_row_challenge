@@ -1,4 +1,4 @@
-# 1billion_row_challenge
+# 1billion row challenge
 
 Implementacao em Python e DuckDB para o One Billion Row Challenge (1BRC), responsavel por gerar dados sinteticos de temperatura por estacao meteorologica, calcular agregacoes (media, minima e maxima por cidade) e persistir os resultados em um banco DuckDB.
 
